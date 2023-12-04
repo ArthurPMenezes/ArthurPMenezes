@@ -1,4 +1,4 @@
-![github-header-image (2)](https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/70a14b0d-f572-4eb9-9277-51fb0ba34089)
+![Header](https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/70a14b0d-f572-4eb9-9277-51fb0ba34089)
 
 Web & Mobile Developer | Specialized in Landing Pages and Android Apps
 

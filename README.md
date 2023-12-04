@@ -1,13 +1,13 @@
 ![ArthurMenezes (1)](https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/9a499642-bec8-4b73-bf5c-7f1b3f62bdb6)
 
 
-Desenvolvedor Web & Mobile | Especializado em Landing Pages e Apps Android
+Web & Mobile Developer | Specialized in Landing Pages and Android Apps
 
-🚀 Transformo ideias em realidade digital! 💻📱
+🚀 I turn ideas into digital reality! 💻📱
 
-🌐 Desenvolvimento de Landing Pages e Sites Convencionais.
-📱 Criação de Apps Mobile para Android.
+🌐 Development of Landing Pages and Conventional Websites.
+📱 Creation of Mobile Apps for Android.
 
-💼 Experiência: 3 anos em Desenvolvimento de Sistemas.
-🛠 Projeto Destaque: SchoolCloud (GitHub).
+💼 Experience: 3 years in Systems Development.
+🛠 Highlight Project: SchoolCloud (GitHub).
 

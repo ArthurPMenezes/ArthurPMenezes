@@ -1,1 +1,1 @@
-![ArthurMenezes](https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/0093ec87-2cba-4cef-b8d9-c6faffe48fb6)
+![ArthurMenezes (1)](https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/9a499642-bec8-4b73-bf5c-7f1b3f62bdb6)

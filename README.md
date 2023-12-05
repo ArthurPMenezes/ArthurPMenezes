@@ -29,26 +29,24 @@
     <img src="https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/70a14b0d-f572-4eb9-9277-51fb0ba34089" />
 </div>
 
-### About me ...
-####  Olá! 👋 Sou um jovem apaixonado por tecnologia e desenvolvimento de softwares, com apenas 17 anos de idade. Atuo como Técnico em Análise e Desenvolvimento de Sistemas, acumulando três anos de experiência nesse fascinante universo.
+## About me ...
+#### Hello! 👋 I'm a young technology enthusiast and software developer, with only 17 years old. I work as a Technician in Systems Analysis and Development, accumulating three years of experience in this fascinating universe.
 
-Minha verdadeira paixão reside no desenvolvimento web e mobile, onde busco constantemente aprimorar minhas habilidades e explorar as últimas tendências tecnológicas. Estou sempre em busca de desafios empolgantes e oportunidades para aprender e crescer.
- * 🌍 Moro no Brasil, PE 
- * ✉️ Você pode entrar em contato comigo pelos emails<br>
+My true passion lies in web and mobile development, where I constantly strive to improve my skills and explore the latest technological trends. I am always looking for exciting challenges and opportunities to learn and grow.
+ * 🌍 I live in Brazil, PE
+ * ✉️ You can contact me through the emails<br>
  4rthurmenezes@protonmail.com<br>
  4r7hurm3n3z3s@gmail.com
- * 🚀 Atualmente estou trabalhando no SchoolCloud
- * 🧠 Estou aprendendo JavaScript e Bancos de Dados 
- * 🤝 Estou aprendendo abra a colaborar em Projetos Mobile (Android) 
- * ⚡ Secretamente eu sou Batman... mas isso é um segredo 🤫 
-
+ * 🚀 I am currently working at SchoolCloud
+ * 🧠 I am learning JavaScript and Databases
+ * 🤝 I am learning to collaborate on Mobile Projects (Android)
+ * ⚡ Secretly, I am Batman... but that's a secret 🤫
 <hr>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPMenezes&show_icons=true&theme=midnight-purple)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=-org&theme=midnight-purple)
 
- ### Skills
+ ## Skills
 
  [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
  [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://%20www.w3.org/TR/CSS/#css)
@@ -62,8 +60,6 @@ Minha verdadeira paixão reside no desenvolvimento web e mobile, onde busco cons
 
 <hr>
 
-#### Ao apoiar-me no BuyMeACoffee, você não apenas incentiva um jovem entusiasta, mas também contribui para o desenvolvimento de projetos empolgantes e inovadores. Sua generosidade é fundamental para impulsionar meu caminho no mundo da tecnologia.<br>Agradeço imensamente por considerar o suporte. Juntos, podemos criar um futuro incrível! ☕🚀
-
-
+#### By supporting me on BuyMeACoffee, you not only encourage a young enthusiast, but also contribute to the development of exciting and innovative projects. Your generosity is essential to propel my path in the world of technology.<br>Thank you immensely for considering the support. Together, we can create an amazing future! ☕🚀
 
 [![boymeacoffe](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ath_mnz)

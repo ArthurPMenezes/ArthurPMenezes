@@ -1,9 +1,9 @@
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align = "center">
     <img style="width: 200px;" src="https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/234b2eb1-3725-4db2-a599-aa13ba0f3b68" />
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center;"><b>
+<div align = "center"><b>
     <a href="mailto:4rthurmenezes@protonmail.com">
         <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
     </a>
@@ -15,7 +15,7 @@
     </a>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center;"><b>
+<div align = "center"><b>
     <a href="www.linkedin.com/in/arthur-menezes-">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -25,7 +25,7 @@
 </div>
 <hr>
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div align = "center">
     <img src="https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/70a14b0d-f572-4eb9-9277-51fb0ba34089" />
 </div>
 

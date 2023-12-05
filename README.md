@@ -30,8 +30,9 @@
 </div>
 
 ### About me ...
-####  Sou um jovem de 17 anos, apaixonado por tecnologia e desenvolvimento de softwares. Atuo como Técnico em Análise e Desenvolvimento de Sistemas, com três anos de experiência e uma paixão especial pelo desenvolvimento web e mobile.
+####  Olá! 👋 Sou um jovem apaixonado por tecnologia e desenvolvimento de softwares, com apenas 17 anos de idade. Atuo como Técnico em Análise e Desenvolvimento de Sistemas, acumulando três anos de experiência nesse fascinante universo.
 
+Minha verdadeira paixão reside no desenvolvimento web e mobile, onde busco constantemente aprimorar minhas habilidades e explorar as últimas tendências tecnológicas. Estou sempre em busca de desafios empolgantes e oportunidades para aprender e crescer.
  * 🌍 Moro no Brasil, PE 
  * ✉️ Você pode entrar em contato comigo pelos emails<br>
  4rthurmenezes@protonmail.com<br>
@@ -58,3 +59,11 @@
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+<hr>
+
+#### Ao apoiar-me no BuyMeACoffee, você não apenas incentiva um jovem entusiasta, mas também contribui para o desenvolvimento de projetos empolgantes e inovadores. Sua generosidade é fundamental para impulsionar meu caminho no mundo da tecnologia.<br>Agradeço imensamente por considerar o suporte. Juntos, podemos criar um futuro incrível! ☕🚀
+
+
+
+[![boymeacoffe](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ath_mnz)

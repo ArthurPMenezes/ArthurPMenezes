@@ -60,6 +60,17 @@ My true passion lies in web and mobile development, where I constantly strive to
 
 <hr>
 
+## Discover my book: "O Dicionário do Programador" 
+
+<div align = "center">
+    <img src="https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/01ae518c-24cb-4f14-91cb-d6704ceecbdb">
+    <img src="https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/bdcf65f4-8152-4ec7-8b13-721fbe1a06cd">
+</div>
+
+#### The goal of the "The Dictionary From the Programmer" is to provide a comprehensive guide for programmers of all levels, from beginners to seniors. This book was created with the aim of providing a unique and complete resource for those who are learning to program, as well as for those looking to enhance their skills. Throughout my journey as a programmer, I realized the need for a resource that brings together a large amount of relevant information in one place. I learned that the learning journey in programming can be challenging and often lonely. That's why I decided to create this book, to share my knowledge and experience, and to provide readers with a reliable and comprehensive guide.
+
+<hr>
+
 #### By supporting me on BuyMeACoffee, you not only encourage a young enthusiast, but also contribute to the development of exciting and innovative projects. Your generosity is essential to propel my path in the world of technology.<br>Thank you immensely for considering the support. Together, we can create an amazing future! ☕🚀
 
 [![boymeacoffe](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ath_mnz)

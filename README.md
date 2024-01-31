@@ -30,7 +30,7 @@
 </div>
 
 ## About me ...
-#### Hello! 👋 I'm a young technology enthusiast and software developer, with only 17 years old. I work as a Technician in Systems Analysis and Development, accumulating three years of experience in this fascinating universe.
+#### Hello! 👋 I'm a young technology enthusiast and software developer, with only 18 years old. I work as a Technician in Systems Analysis and Development, accumulating three years of experience in this fascinating universe.
 
 My true passion lies in web and mobile development, where I constantly strive to improve my skills and explore the latest technological trends. I am always looking for exciting challenges and opportunities to learn and grow.
  * 🌍 I live in Brazil, PE

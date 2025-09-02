@@ -25,9 +25,7 @@
 </div>
 <hr>
 
-<div align = "center">
-    <img src="https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/70a14b0d-f572-4eb9-9277-51fb0ba34089" />
-</div>
+
 
 ## About me ...
 #### Hello! 👋 I'm a young technology enthusiast and software developer, with only 18 years old. I work as a Technician in Systems Analysis and Development, accumulating three years of experience in this fascinating universe.

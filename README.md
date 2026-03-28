@@ -86,10 +86,12 @@ O que me move é simples: **entender como as coisas funcionam — e compartilhar
 ---
  
 ### 🗄️ Data Modeling Proposal | Proposta de Modelagem de Dados
-> **EN —** A structured data modeling proposal demonstrating database design skills, including entity relationships and schema planning.  
-> **PT —** Proposta de modelagem de dados estruturada, demonstrando habilidades em design de banco de dados, relacionamento entre entidades e planejamento de esquemas.
  
-`Database Design` `Data Modeling`
+> **EN —** Proposal for Data Modeling to Optimize Responses to Cybersecurity Incidents in the Healthcare Sector. The project proposes a relational database model (MySQL) to integrate cybersecurity incident management systems in healthcare environments, aligned with standards such as ISO/IEC 27035, LGPD, and DORA. The focus is on reducing the Mean Time to Detect (MTTD) and respond to attacks, especially on IoT medical devices.
+ 
+> **PT —** Proposta de Modelagem de Dados para Otimização de Respostas a Incidentes de Segurança Cibernética no Setor da Saúde. O projeto propõe um modelo de banco de dados relacional (MySQL) para integrar sistemas de gestão de incidentes de cibersegurança em ambientes de saúde, alinhado a normativas como ISO/IEC 27035, LGPD e DORA. O foco é reduzir o tempo de detecção (MTTD) e resposta a ataques, especialmente em dispositivos médicos IoT.
+ 
+`MySQL` `Database Design` `Data Modeling` `Cybersecurity`
 &nbsp;[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ArthurPMenezes/Proposta-de-Modelagem-de-Dados)
  
 ---

@@ -1,30 +1,4 @@
 
-<div align = "center">
-    <img style="width: 200px;" src="https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/234b2eb1-3725-4db2-a599-aa13ba0f3b68" />
-</div>
-
-<div align = "center"><b>
-    <a href="mailto:4rthurmenezes@protonmail.com">
-        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-    </a>
-    <a href="https://t.me/+pBEzGtrw28EyMDkx">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/ath_mnz_/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-</div>
-
-<div align = "center"><b>
-    <a href="www.linkedin.com/in/arthur-menezes-">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href ="mailton:4r7hurm3n3z3s@gmail.com">
-        <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-</div>
-<hr>
-
 
 
 

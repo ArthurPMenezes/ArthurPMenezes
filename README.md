@@ -27,48 +27,99 @@
 
 
 
-## About me ...
-#### Hello! 👋 I'm a young technology enthusiast and software developer, with only 18 years old. I work as a Technician in Systems Analysis and Development, accumulating three years of experience in this fascinating universe.
 
-My true passion lies in web and mobile development, where I constantly strive to improve my skills and explore the latest technological trends. I am always looking for exciting challenges and opportunities to learn and grow.
- * 🌍 I live in Brazil, PE
- * ✉️ You can contact me through the emails<br>
- 4rthurmenezes@protonmail.com<br>
- 4r7hurm3n3z3s@gmail.com
- * 🚀 I am currently working at SchoolCloud
- * 🧠 I am learning JavaScript and Databases
- * 🤝 I am learning to collaborate on Mobile Projects (Android)
- * ⚡ Secretly, I am Batman... but that's a secret 🤫
-<hr>
+<div align="center">
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurPMenezes&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=-org&theme=midnight-purple)
+<h1>Arthur Menezes</h1>
+<h3>Fullstack Developer • Computer Science Teacher • Cybersecurity Content Creator</h3>
 
- ## Skills
+<p>
+  <a href="https://www.linkedin.com/in/arthur-menezes-" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ath_mnz_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:4rthurmenezes@protonmail.com">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+</p>
 
- [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
- [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://%20www.w3.org/TR/CSS/#css)
- [![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- [![node.js](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/about)
-[![react](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
- [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-
-<hr>
-
-## Discover my book: "O Dicionário do Programador" 
-
-<div align = "center">
-    <img src="https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/01ae518c-24cb-4f14-91cb-d6704ceecbdb">
-    <img src="https://github.com/ArthurPMenezes/ArthurPMenezes/assets/149070143/bdcf65f4-8152-4ec7-8b13-721fbe1a06cd">
 </div>
 
-####  The goal of the "The Dictionary From the Programmer" is to provide a comprehensive guide for programmers of all levels, from beginners to seniors. This book was created with the aim of providing a unique and complete resource for those who are learning to program, as well as for those looking to enhance their skills. Throughout my journey as a programmer, I realized the need for a resource that brings together a large amount of relevant information in one place. I learned that the learning journey in programming can be challenging and often lonely. That's why I decided to create this book, to share my knowledge and experience, and to provide readers with a reliable and comprehensive guide.
+---
 
-<hr>
+## About Me |
 
-#### By supporting me on BuyMeACoffee, you not only encourage a young enthusiast, but also contribute to the development of exciting and innovative projects. Your generosity is essential to propel my path in the world of technology.<br>Thank you immensely for considering the support. Together, we can create an amazing future! ☕🚀
+**EN —** I'm a Fullstack Developer with a background as a Programming Teacher and a Technical Degree in Systems Development, currently pursuing a Bachelor's in Software Engineering. I work as an IT Teacher, create educational content about Cybersecurity for general audiences, and have delivered talks on the subject. I also take on freelance projects and compete in state bids involving automation, scripting, and web application development.
 
-[![boymeacoffe](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ath_mnz)
+What drives me is simple: **understanding how things work — and passing that knowledge forward.**
+
+---
+
+**PT —** Sou Desenvolvedor Fullstack com formação técnica em Desenvolvimento de Sistemas, cursando Bacharelado em Engenharia de Software. Atuo como Professor de Informática, crio conteúdo educativo sobre Cibersegurança para o público leigo e já ministrei palestras na área. Também atendo demandas freelancer e participo de licitações estaduais envolvendo automações, scripts e aplicações web sob demanda.
+
+O que me move é simples: **entender como as coisas funcionam — e compartilhar esse conhecimento.**
+
+---
+
+## Stacks | 
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## Featured Projects |
+
+### 📱 SchoolCloud
+> **EN —** A mobile app developed during high school for an entrepreneurship fair. SchoolCloud aims to be a digital school locker — students can store and access their school materials right from their phones.  
+> **PT —** Aplicativo mobile desenvolvido ainda no Ensino Médio para uma feira de empreendedorismo. O SchoolCloud funciona como um armário escolar digital — os alunos guardam e acessam seus materiais escolares pelo celular.
+
+`React Native` `Node.js` `SQLite`
+
+---
+
+### 🏋️ Virtual Turnstile | Catraca Virtual
+> **EN —** A virtual turnstile system built for a company gym, replacing physical access control with a fully automated Python solution integrated with Excel.  
+> **PT —** Sistema de catraca virtual desenvolvido para a academia de uma empresa, substituindo o controle de acesso físico por uma solução 100% automatizada em Python com integração ao Excel.
+
+`Python` `Excel Integration`
+
+---
+
+### 🏛️ SFAI — AI-Assisted Contract Oversight System | Sistema de Fiscalização Assistida por IA *(Em andamento | WIP)*
+> **EN —** A contract monitoring system for IT services based on UST (Unit of Technical Service), developed to compete in a GovTech Goiás government bid. The system assists in the oversight and analysis of public IT contracts.  
+> **PT —** Sistema de fiscalização de contratos de TI baseado em UST, desenvolvido para concorrer a uma licitação do GovTech Goiás. O sistema auxilia no acompanhamento e análise de contratos públicos de TI.
+
+`Python` `Streamlit` `SQLite`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://streak-stats.demolab.com?user=ArthurPMenezes&theme=github-dark&hide_border=true"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArthurPMenezes&theme=github_dark"/>
+
+</div>
+
+---
+
+<div align="center">
+  <i>"The more I learn, the more I realize how much I have yet to learn — and how much I have to teach."</i><br/>
+  <i>"Quanto mais aprendo, mais percebo o quanto ainda tenho a aprender — e o quanto tenho a ensinar."</i>
+</div>
